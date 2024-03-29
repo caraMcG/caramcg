@@ -2,7 +2,7 @@
 &nbsp;
 - 😊 Pronouns: She/Her
 - 🚀 I'm currently working on a freelance project
-- 🌱 I'm currently learning **Ruby on Rails**
+- 🌱 I'm currently learning web accessibility
 - ✨ I recently deployed [Alberta Shelter App](https://caramcg.github.io/abshelterapp/), a quick and simple way to find your next furry best friend!
   
 
